@@ -1,0 +1,105 @@
+.information{
+    width:80%;
+    float: left;
+}
+
+#informationTitle{
+    top: 0;
+    text-align: left;
+}
+#year{
+    float: left
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mapDiv{
+    align-self: flex-start;
+}
+
+.attributeDescription{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+select{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.compareMain{
+    background-color:  #EDDFDF;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 40px;
+}
+#compare2{
+    background-color: #DA1717;
+    color: white;
+    width: 40px;
+    width: 180px;
+
+}
+
+#compare1{
+    background-color: #344D78;
+    color: white;
+    text-decoration: none;
+    opacity: 100% !important;
+    width: 180px;
+}
+
+.compareText{
+    visibility: hidden;
+}
+
+.flexContainer{
+    display: flex;
+    flex-direction: clumn;
+
+}
+
+body{
+    background-color: #EDDFDF;
+}
+
+p{
+    font-size: large;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 15px;
+    border-radius: 5px;  
+    background: white;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+
+  }
+  
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 27px;
+    height: 27px;
+    border-radius: 50%; 
+    background: #DA1717;
+    cursor: pointer;
+  }
+  
+  .slider::-moz-range-thumb {
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    background: #DA1717;
+    cursor: pointer;
+  }

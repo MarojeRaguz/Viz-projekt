@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="http://d3js.org/d3.v4.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script
+      src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"
+      type="text/javascript"
+    ></script>
+    <link rel="stylesheet" href="index.css" />
+    <title>VIZ</title>
+  </head>
+
+  <body>
+    <h1 class="title">
+      Analiza stanovništva u Republici Hrvatskoj od 2017. do 2021. godine
+    </h1>
+    <div class="container">
+      <div class="mapDiv">
+        <div class="information">
+          <h2 id="informationTitle">Republika Hrvatska</h2>
+          <input
+            type="range"
+            min="2017"
+            max="2021"
+            value="2021"
+            class="slider"
+            id="myRange"
+          />
+          <h3 id="year">Godina: 2021</h3>
+        </div>
+        <div id="map"></div>
+      </div>
+      <div class="barcharts">
+        <div class="rowInformation">
+          <div class="attributeDescription">
+            <p >Broj</p>
+            <select name="compareMain" id="compareMain" class="compareMain">
+              <option value="broj stanovnika">stanovnika</option>
+              <option value="rodeni">rođenih</option>
+              <option value="umrli">umrlih</option>
+              <option value="sklopljeni_brak">sklopljenih brakova</option>
+              <option value="razvedeni_brak">razvedenih brakova</option>
+            </select>
+            <p id="attrDescription">po županijama u 2021. godini</p>
+          </div>
+          <div id="death"></div>
+        </div>
+        <div class="rowInformation" id="comparediv">
+          <div class="attributeDescription">
+            <p>Usporedba:</p>
+            <select name="compare1" id="compare1" disabled></select>
+            <p>i</p>
+            <select name="compare2" id="compare2"></select>
+            <p>prema broju </p>
+            <select name="compare3" id="compare3" class="compareMain">
+              <option value="broj stanovnika">stanovnika</option>
+              <option value="rodeni">rođenih</option>
+              <option value="umrli">umrlih</option>
+              <option value="sklopljeni_brak">sklopljenim brakovima</option>
+              <option value="razvedeni_brak">razvedenim brakovima</option>
+            </select>
+          </div>
+
+          <div id="compare"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/map.js"></script>
+    <script src="js/display.js"></script>
+    <script src="js/dataCountry.js"></script>
+    <script src="js/dataCro.js"></script>
+  </body>
+</html>

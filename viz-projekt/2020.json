@@ -1,0 +1,234 @@
+[
+
+    {
+        "zupanija": "Zagrebačka",
+        "stanovnistvo": 309469,
+        "rodeni": 2754,
+        "umrli": 3590,
+        "prirodni_prirast": "−836",
+        "vit_index": 76.7,
+        "sklopljeni_brak": 1587,
+        "razvedeni_brak": 442,
+        "id":"ZG"
+    },
+    {
+        "zupanija": "Krapinsko-zagorska",
+        "stanovnistvo": 125357,
+        "rodeni": 1110,
+        "umrli": 1906,
+        "prirodni_prirast": "−796",
+        "vit_index": 58.2,
+        "sklopljeni_brak": 564,
+        "razvedeni_brak": 181,
+        "id":"KZ"
+    },
+    {
+        "zupanija": "Sisačko-moslavačka",
+        "stanovnistvo": 148589,
+        "rodeni": 1215,
+        "umrli": 2518,
+        "prirodni_prirast": "−1303",
+        "vit_index": 48.3,
+        "sklopljeni_brak": 794,
+        "razvedeni_brak": 275,
+        "id":"SM"
+    },
+    {
+        "zupanija": "Karlovačka",
+        "stanovnistvo": 116829,
+        "rodeni": 962,
+        "umrli": 1933,
+        "prirodni_prirast": "−971",
+        "vit_index": 49.8,
+        "sklopljeni_brak": 489,
+        "razvedeni_brak": 141,
+        "id":"KA"
+    },
+    {
+        "zupanija": "Varaždinska",
+        "stanovnistvo": 166982,
+        "rodeni": 1435,
+        "umrli": 2179,
+        "prirodni_prirast": "−744",
+        "vit_index": 65.9,
+        "sklopljeni_brak": 776,
+        "razvedeni_brak": 277,
+        "id":"VZ"
+    },
+    {
+        "zupanija": "Koprivničko-križevačka",
+        "stanovnistvo": 107711,
+        "rodeni": 998,
+        "umrli": 1538,
+        "prirodni_prirast": "−540",
+        "vit_index": 64.9,
+        "sklopljeni_brak": 482,
+        "razvedeni_brak": 175,
+        "id":"KK"
+    },
+    {
+        "zupanija": "Bjelovarsko-bilogorska",
+        "stanovnistvo": 107909,
+        "rodeni": 992,
+        "umrli": 1647,
+        "prirodni_prirast": "−655",
+        "vit_index": 60.2,
+        "sklopljeni_brak": 546,
+        "razvedeni_brak": 180,
+        "id":"BB"
+    },
+    {
+        "zupanija": "Primorsko-goranska",
+        "stanovnistvo": 284239,
+        "rodeni": 2126,
+        "umrli": 3772,
+        "prirodni_prirast": "−1646",
+        "vit_index": 56.4,
+        "sklopljeni_brak": 1217,
+        "razvedeni_brak": 340,
+        "id":"PG"
+    },
+    {
+        "zupanija": "Ličko-senjska",
+        "stanovnistvo": 45184,
+        "rodeni": 361,
+        "umrli": 846,
+        "prirodni_prirast": "−485",
+        "vit_index": 42.7,
+        "sklopljeni_brak": 185,
+        "razvedeni_brak": 49,
+        "id":"LS"
+    },
+    {
+        "zupanija": "Virovitičko-podravska",
+        "stanovnistvo": 75257,
+        "rodeni": 690,
+        "umrli": 1079,
+        "prirodni_prirast": "−389",
+        "vit_index": 63.9,
+        "sklopljeni_brak": 407,
+        "razvedeni_brak": 144,
+        "id":"VP"
+    },
+    {
+        "zupanija": "Požeško-slavonska",
+        "stanovnistvo": 67862,
+        "rodeni": 600,
+        "umrli": 1016,
+        "prirodni_prirast": "−416",
+        "vit_index": 59.1,
+        "sklopljeni_brak": 417,
+        "razvedeni_brak": 130,
+        "id":"PZ"
+    },
+    {
+        "zupanija": "Brodsko-posavska",
+        "stanovnistvo": 140072,
+        "rodeni": 1196,
+        "umrli": 2011,
+        "prirodni_prirast": "−815",
+        "vit_index": 59.5,
+        "sklopljeni_brak": 850,
+        "razvedeni_brak": 230,
+        "id":"BP"
+    },
+    {
+        "zupanija": "Zadarska",
+        "stanovnistvo": 168153,
+        "rodeni": 1535,
+        "umrli": 1982,
+        "prirodni_prirast": "−447",
+        "vit_index": 77.4,
+        "sklopljeni_brak": 737,
+        "razvedeni_brak": 163,
+        "id":"ZD"
+    },
+    {
+        "zupanija": "Osječko-baranjska",
+        "stanovnistvo": 277227,
+        "rodeni": 2339,
+        "umrli": 3886,
+        "prirodni_prirast": "−1547",
+        "vit_index": 60.2,
+        "sklopljeni_brak": 1525,
+        "razvedeni_brak": 487,
+        "id":"OB"
+    },
+    {
+        "zupanija": "Šibensko-kninska",
+        "stanovnistvo": 100153,
+        "rodeni": 795,
+        "umrli": 1471,
+        "prirodni_prirast": "−676",
+        "vit_index": 54,
+        "sklopljeni_brak": 435,
+        "razvedeni_brak": 126,
+        "id":"SK"
+    },
+    {
+        "zupanija": "Vukovarsko-srijemska",
+        "stanovnistvo": 154371,
+        "rodeni": 1279,
+        "umrli": 2283,
+        "prirodni_prirast": "−1004",
+        "vit_index": 56,
+        "sklopljeni_brak": 908,
+        "razvedeni_brak": 202,
+        "id":"VS"
+    },
+    {
+        "zupanija": "Splitsko-dalmatinska",
+        "stanovnistvo": 448071,
+        "rodeni": 4274,
+        "umrli": 5104,
+        "prirodni_prirast": "−830",
+        "vit_index": 83.7,
+        "sklopljeni_brak": 2170,
+        "razvedeni_brak": 587,
+        "id":"SD"
+    },
+    {
+        "zupanija": "Istarska",
+        "stanovnistvo": 208765,
+        "rodeni": 1670,
+        "umrli": 2372,
+        "prirodni_prirast": "−702",
+        "vit_index": 70.4,
+        "sklopljeni_brak": 802,
+        "razvedeni_brak": 328,
+        "id":"IS"
+    },
+    {
+        "zupanija": "Dubrovačko-neretvanska",
+        "stanovnistvo": 121215,
+        "rodeni": 1192,
+        "umrli": 1321,
+        "prirodni_prirast": "−129",
+        "vit_index": 90.2,
+        "sklopljeni_brak": 592,
+        "razvedeni_brak": 151,
+        "id":"DN"
+    },
+    {
+        "zupanija": "Međimurska",
+        "stanovnistvo": 109921,
+        "rodeni": 1187,
+        "umrli": 1216,
+        "prirodni_prirast": "−29",
+        "vit_index": 97.6,
+        "sklopljeni_brak": 552,
+        "razvedeni_brak": 145,
+        "id":"ME"
+    },
+    {
+        "zupanija": "Grad-Zagreb",
+        "stanovnistvo": 804507,
+        "rodeni": 8235,
+        "umrli": 9036,
+        "prirodni_prirast": "−801",
+        "vit_index": 91.1,
+        "sklopljeni_brak": 3886,
+        "razvedeni_brak": 1372,
+        "id":"GZ"
+    }
+]
